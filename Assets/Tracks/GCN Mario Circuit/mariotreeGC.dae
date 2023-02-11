@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA version="1.5.0" xmlns="http://www.collada.org/2008/03/COLLADASchema">
+	<asset>
+		<contributor>
+			<authoring_tool>BrawlBox</authoring_tool>
+		</contributor>
+		<created>2020-04-04T00:54:50Z</created>
+		<modified>2020-04-04T00:54:50Z</modified>
+		<unit meter="0.01" name="centimeter" />
+		<up_axis>Y_UP</up_axis>
+	</asset>
+	<library_images>
+		<image id="Mariotree1-image" name="Mariotree1">
+			<init_from>
+				<ref>Mariotree1.png</ref>
+			</init_from>
+		</image>
+	</library_images>
+	<library_materials>
+		<material id="Mario_tree_tx">
+			<instance_effect url="#Mario_tree_tx-fx" />
+		</material>
+	</library_materials>
+	<library_effects>
+		<effect id="Mario_tree_tx-fx" name="Mario_tree_tx">
+			<profile_COMMON>
+				<newparam sid="Mariotree1-surface">
+					<surface type="2D">
+						<init_from>
+							<ref>Mariotree1-image</ref>
+						</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="Mariotree1-sampler">
+					<sampler2D>
+						<source>Mariotree1-surface</source>
+						<instance_image url="#Mariotree1-image" />
+						<wrap_s>WRAP</wrap_s>
+						<wrap_t>CLAMP</wrap_t>
+						<minfilter>LINEAR</minfilter>
+						<magfilter>LINEAR</magfilter>
+					</sampler2D>
+				</newparam>
+				<technique sid="COMMON">
+					<phong>
+						<diffuse>
+							<texture texture="Mariotree1-sampler" texcoord="TEXCOORD0" />
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+	</library_effects>
+	<library_geometries>
+		<geometry id="polygon0" name="polygon0">
+			<mesh>
+				<source id="polygon0_Positions">
+					<float_array id="polygon0_PosArr" count="171">3.2954 364.7892 353.6944 -41.19732 453.8095 172.1491 -55.10131 470.3123 388.5224 4.468067 494.5994 172.1491 63.58897 469.2401 388.5224 49.38909 452.9912 172.1491 3.779267 418.3517 154.6503 6.169286 -672.5767 2.063023 -842.2789 960.0674 -351.5857 -842.2686 962.5049 353.4975 -809.1421 1292.01 -340.1557 -809.1322 1294.361 339.772 -561.9171 1634.148 -240.1232 -561.91 1635.799 237.3692 15.638 1772.003 -1.859023 -224.2769 1634.148 575.0123 -343.7312 954.183 -850.1473 -328.3814 1286.336 -820.9304 -224.2935 1630.163 -577.7565 361.3315 948.2985 -850.1375 351.5267 1280.661 -820.9205 253.1852 1626.178 -577.7496 361.3559 954.183 852.0836 859.9038 948.2985 353.5221 351.5504 1286.336 820.5702 832.3115 1280.661 339.7957 253.2019 1630.163 575.0192 590.8255 1626.178 237.3859 -328.3577 1292.01 820.5607 -343.7068 960.0674 852.074 859.8935 945.8608 -351.5611 832.3013 1278.311 -340.132 590.8185 1624.528 -240.1066 142.1463 306.1585 -119.8174 183.7177 333.7014 224.1032 15.30104 1693.771 -139.0588 -177.659 336.966 224.1032 -136.5921 308.6765 -119.8174 842.1116 1150.591 -1.437259 597.3203 1150.602 -588.9867 5.550164 -533.7828 2.319481 8.783174 1154.677 -831.3604 -821.0922 1164.483 1.967692 -576.3008 1164.472 589.5171 12.23598 1160.397 831.8911 -127.9035 -104.3934 57.94432 -0.074493 -105.5482 214.1188 -0.074422 -105.5482 -98.23009 127.7546 -106.703 57.94439 36.24385 696.267 135.9711 107.623 559.6411 167.4233 36.24385 424.3271 198.8754 599.7612 1154.648 587.1094 -578.7421 1160.426 -586.579 -84.07065 696.267 135.9711 -12.69147 559.6411 167.4233 -84.07065 424.3271 198.8754</float_array>
+					<technique_common>
+						<accessor source="#polygon0_PosArr" count="57" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="polygon0_Colors0">
+					<float_array id="polygon0_ColorArr0" count="36">0.5019608 0.5019608 0.5019608 1 1 1 1 1 0.7725491 0.8705883 0.9176471 1 0.7215686 0.8392158 0.8980393 1 0.5607843 0.654902 0.6980392 1 0.6 0.6 0.6 1 0.2 0.2 0.2 1 0.7333333 0.7333333 0.7333333 1 0.7450981 0.854902 0.909804 1</float_array>
+					<technique_common>
+						<accessor source="#polygon0_ColorArr0" count="9" stride="4">
+							<param name="R" type="float" />
+							<param name="G" type="float" />
+							<param name="B" type="float" />
+							<param name="A" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="polygon0_UVs0">
+					<float_array id="polygon0_UVArr0" count="56">0.2288818 0.9141846 0.387085 0.8527832 0.2288818 0.8527832 0.387085 0.8126221 0.387085 0.8929443 0.5 -0.4655762 0.9908447 0.1173096 0.009155273 0.1173096 0.9610596 0.2989502 0.03894043 0.2989502 0.8759766 0.3953857 0.1240234 0.3953857 0.5 0.4709473 0 0.7022705 1 0.7022705 0.5 1.41626 0.02392578 0.25 0.9760742 0.25 0.5 -0.4456787 -0.5 0.5332031 0.5 0.5332031 1.5 0.5332031 0.7570801 0.5291748 0 0.4000244 -0.7570801 0.5291748 0.4451904 0.8483887 0.4901123 0.8483887 0.4676514 0.8654785</float_array>
+					<technique_common>
+						<accessor source="#polygon0_UVArr0" count="28" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="polygon0_Vertices">
+					<input semantic="POSITION" source="#polygon0_Positions" />
+				</vertices>
+				<triangles material="Mario_tree_tx" count="78">
+					<input semantic="VERTEX" source="#polygon0_Vertices" offset="0" />
+					<input semantic="COLOR" source="#polygon0_Colors0" set="0" offset="1" />
+					<input semantic="TEXCOORD" source="#polygon0_UVs0" set="0" offset="2" />
+					<p>2 1 2 1 0 1 0 0 0 3 1 3 1 0 1 2 1 2 4 1 2 3 1 3 2 1 2 5 0 1 3 1 3 4 1 2 0 0 0 5 0 1 4 1 2 6 0 4 5 0 1 0 0 0 1 0 1 6 0 4 0 0 0 9 3 7 8 3 6 7 2 5 10 4 8 8 3 6 9 3 7 11 4 9 10 4 8 9 3 7 12 1 10 10 4 8 11 4 9 13 1 11 12 1 10 11 4 9 14 1 12 12 1 10 13 1 11 15 1 10 14 1 12 13 1 11 8 3 7 16 3 6 7 2 5 17 4 8 16 3 6 8 3 7 10 4 9 17 4 8 8 3 7 18 1 10 17 4 8 10 4 9 12 1 11 18 1 10 10 4 9 14 1 12 18 1 10 12 1 11 16 3 7 19 3 6 7 2 5 20 4 8 19 3 6 16 3 7 17 4 9 20 4 8 16 3 7 21 1 10 20 4 8 17 4 9 18 1 11 21 1 10 17 4 9 14 1 12 21 1 10 18 1 11 23 3 6 22 3 7 7 2 5 24 4 9 22 3 7 23 3 6 25 4 8 24 4 9 23 3 6 26 1 11 24 4 9 25 4 8 27 1 10 26 1 11 25 4 8 14 1 12 26 1 11 27 1 10 15 1 11 26 1 10 14 1 12 24 4 8 26 1 10 15 1 11 28 4 9 24 4 8 15 1 11 22 3 6 24 4 8 28 4 9 29 3 7 22 3 6 28 4 9 7 2 5 22 3 6 29 3 7 29 3 6 9 3 7 7 2 5 11 4 9 9 3 7 29 3 6 28 4 8 11 4 9 29 3 6 13 1 11 11 4 9 28 4 8 15 1 10 13 1 11 28 4 8 30 3 6 25 4 9 23 3 7 31 4 8 25 4 9 30 3 6 19 3 7 31 4 8 30 3 6 20 4 9 31 4 8 19 3 7 31 4 8 27 1 11 25 4 9 32 1 10 27 1 11 31 4 8 20 4 9 32 1 10 31 4 8 21 1 11 32 1 10 20 4 9 35 6 15 34 5 14 33 1 13 36 1 13 34 5 14 35 6 15 37 5 14 36 1 13 35 6 15 40 7 18 39 5 17 38 5 16 41 5 16 39 5 17 40 7 18 40 7 18 43 5 16 42 5 17 44 5 17 43 5 16 40 7 18 30 8 6 7 2 5 19 3 7 23 3 7 7 2 5 30 8 6 46 1 20 36 1 13 45 5 19 34 5 14 36 1 13 46 1 20 45 5 20 37 5 14 47 1 21 36 1 13 37 5 14 45 5 20 47 1 20 33 1 13 48 5 19 37 5 14 33 1 13 47 1 20 48 5 20 34 5 14 46 1 21 33 1 13 34 5 14 48 5 20 32 1 10 14 1 12 27 1 11 21 1 11 14 1 12 32 1 10 51 1 24 50 1 23 49 1 22 40 7 18 38 5 17 52 5 16 40 7 18 53 5 16 41 5 17 40 7 18 42 5 16 53 5 17 40 7 18 52 5 17 44 5 16 56 1 24 55 1 23 54 1 22 0 0 27 4 1 26 2 1 25 33 1 13 37 5 14 35 6 15</p>
+				</triangles>
+			</mesh>
+		</geometry>
+	</library_geometries>
+	<library_controllers>
+		<controller id="polygon0_Controller">
+			<skin source="#polygon0">
+				<bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+				<source id="polygon0_Joints">
+					<Name_array id="polygon0_JointArr" count="1">mariotreeGC</Name_array>
+					<technique_common>
+						<accessor source="#polygon0_JointArr" count="1">
+							<param name="JOINT" type="Name" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="polygon0_Matrices">
+					<float_array id="polygon0_MatArr" count="16">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</float_array>
+					<technique_common>
+						<accessor source="#polygon0_MatArr" count="1" stride="16">
+							<param type="float4x4" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="polygon0_Weights">
+					<float_array id="polygon0_WeightArr" count="1">1</float_array>
+					<technique_common>
+						<accessor source="#polygon0_WeightArr" count="1">
+							<param type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<joints>
+					<input semantic="JOINT" source="#polygon0_Joints" />
+					<input semantic="INV_BIND_MATRIX" source="#polygon0_Matrices" />
+				</joints>
+				<vertex_weights count="57">
+					<input semantic="JOINT" offset="0" source="#polygon0_Joints" />
+					<input semantic="WEIGHT" offset="1" source="#polygon0_Weights" />
+					<vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+					<v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+				</vertex_weights>
+			</skin>
+		</controller>
+	</library_controllers>
+	<library_visual_scenes>
+		<visual_scene id="RootNode" name="RootNode">
+			<node id="mariotreeGC" name="mariotreeGC" sid="mariotreeGC" type="JOINT" />
+			<node id="polygon0" name="polygon0" type="NODE">
+				<instance_controller url="#polygon0_Controller">
+					<skeleton>#mariotreeGC</skeleton>
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="Mario_tree_tx" target="#Mario_tree_tx">
+								<bind_vertex_input semantic="TEXCOORD0" input_semantic="TEXCOORD" input_set="0" />
+							</instance_material>
+						</technique_common>
+					</bind_material>
+				</instance_controller>
+			</node>
+		</visual_scene>
+	</library_visual_scenes>
+	<scene>
+		<instance_visual_scene url="#RootNode" />
+	</scene>
+</COLLADA>

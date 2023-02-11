@@ -1,0 +1,882 @@
+# Blender MTL File: 'None'
+# Material Count: 80
+
+newmtl CmnPole1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd CmnPole1_Alb.png
+map_d CmnPole1_Alb.png
+
+newmtl GardenLight
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd GardenLight_01_Alb.png
+map_d GardenLight_01_Alb.png
+
+newmtl GardenLight_light
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd GardenLight_01_Emm.png
+map_d GardenLight_01_Emm.png
+
+newmtl Guardrail_Curve_m
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd Guardrail_Curve_03_Alb.png
+map_d Guardrail_Curve_03_Alb.png
+
+newmtl Guardrail_Curve_ura
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd Guardrail_Curve_ura_Alb.png
+map_d Guardrail_Curve_ura_Alb.png
+
+newmtl HatenaBlockB
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd HatenaBlock256_kaiB_Alb.png
+map_d HatenaBlock256_kaiB_Alb.png
+
+newmtl OrangeBox
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd OrangeBox_01_Alb.png
+map_d OrangeBox_01_Alb.png
+
+newmtl PanelFlame
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd PanelFlame_Alb.png
+map_d PanelFlame_Alb.png
+
+newmtl PlantA_m
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd PlantA_01_Alb.png
+map_d PlantA_01_Alb.png
+
+newmtl Road
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd M_road_Alb.png
+map_d M_road_Alb.png
+
+newmtl Road_exchange
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd M_road_Alb.png
+map_d M_road_Alb.png
+
+newmtl Road_hakusen
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd M_road_hakusen_Alb.png
+map_d M_road_hakusen_Alb.png
+
+newmtl Road_hakusen_ura
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd M_road_hakusen_Alb.png
+map_d M_road_hakusen_Alb.png
+
+newmtl Road_ura
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd M_road_Alb.png
+map_d M_road_Alb.png
+
+newmtl Siba_Enkei
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Siba_Enkei_Alb.png
+map_d mc_Siba_Enkei_Alb.png
+
+newmtl Siba_Enkei.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Siba_Enkei_Alb.png
+map_d mc_Siba_Enkei_Alb.png
+
+newmtl StartGate_Gu_MarioCircuit
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StartGate_Gu_MarioCircuit_Alb.png
+map_d StartGate_Gu_MarioCircuit_Alb.png
+
+newmtl StartGate_Gu_MarioCircuit.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StartGate_Gu_MarioCircuit_Alb.png
+map_d StartGate_Gu_MarioCircuit_Alb.png
+
+newmtl StartGrit_01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StartGrit_01_Alb.png
+map_d StartGrit_01_Alb.png
+
+newmtl ct_ry_flowers01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd ct_ry_flowers01_Alb.png
+map_d ct_ry_flowers01_Alb.png
+
+newmtl di_TreeA_Leaf
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd di_Tree_Leaf_Alb.png
+map_d di_Tree_Leaf_Alb.png
+
+newmtl di_TreeB_Base
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd di_TreeLeaf_Alb.png
+map_d di_TreeLeaf_Alb.png
+
+newmtl ef_gravityboard
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd ef_GravityPanell_Alb2.png
+map_d ef_GravityPanell_Alb2.png
+
+newmtl ef_river03
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd ef_seawater_Alb.png
+map_d ef_seawater_Alb.png
+
+newmtl ef_waterF
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd ef_water_Nrm.png
+map_d ef_water_Nrm.png
+
+newmtl ef_waterfall02
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd ef_waterfall02_Alb.png
+map_d ef_waterfall02_Alb.png
+
+newmtl m_CmnStartGrid
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd CmnStartGrid1_Alb.png
+map_d CmnStartGrid1_Alb.png
+
+newmtl m_CurbStone
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd CurbStone_01_Alb.png
+map_d CurbStone_01_Alb.png
+
+newmtl m_CurbStone_ura
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd CurbStone_01_Alb.png
+map_d CurbStone_01_Alb.png
+
+newmtl m_PylonR
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd Pylon_R_Alb.png
+map_d Pylon_R_Alb.png
+
+newmtl m_StreetlightA
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StreetlightA_Alb.png
+map_d StreetlightA_Alb.png
+
+newmtl m_StreetlightA.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StreetlightA_Alb.png
+map_d StreetlightA_Alb.png
+
+newmtl m_StreetlightA_02
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StreetlightA2_Alb.png
+map_d StreetlightA2_Alb.png
+
+newmtl m_StreetlightA_02_Light
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StreetlightA2_Alb.png
+map_d StreetlightA2_Alb.png
+
+newmtl m_StreetlightA_light
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StreetlightA_Alb.png
+map_d StreetlightA_Alb.png
+
+newmtl m_TreeBush_Leaf
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd TreeBush_Leaf_Alb.png
+map_d TreeBush_Leaf_Alb.png
+
+newmtl m_blueS
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd blue_01_Alb.png
+map_d blue_01_Alb.png
+
+newmtl m_fenceA
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd fenceA_01_Alb.png
+map_d fenceA_01_Alb.png
+
+newmtl m_grass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd siba_01_Alb.png
+map_d siba_01_Alb.png
+
+newmtl m_mist
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mist_01_Alb.png
+map_d mist_01_Alb.png
+
+newmtl m_road_loght
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd M_road_loght_Alb.png
+map_d M_road_loght_Alb.png
+
+newmtl mc_Field_Enkei
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Field_Enkei_Alb.png
+map_d mc_Field_Enkei_Alb.png
+
+newmtl mc_Field_Enkei_Alpha
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Field_Enkei_Alb.png
+map_d mc_Field_Enkei_Alb.png
+
+newmtl mc_Flower_Enkei
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Flower_Enkei_02_Alb.png
+map_d mc_Flower_Enkei_02_Alb.png
+
+newmtl mc_Kakiwari
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Kakiwari_00_Alb.png
+map_d mc_Kakiwari_00_Alb.png
+
+newmtl mc_Kusa
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Kusa_Enkei_Alb.png
+map_d mc_Kusa_Enkei_Alb.png
+
+newmtl mc_MARIOCIRCUIT_mozi
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd MARIOCIRCUIT_01_Alb.png
+map_d MARIOCIRCUIT_01_Alb.png
+
+newmtl mc_Rock
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Rock_00_Alb.png
+map_d mc_Rock_00_Alb.png
+
+newmtl mc_Rock_seiteki
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Rock_00_Alb.png
+map_d mc_Rock_00_Alb.png
+
+newmtl mc_StoneBrown
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd StoneBrown__01_Alb.png
+map_d StoneBrown__01_Alb.png
+
+newmtl mc_Tree_Enkei
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Tree_Enkei_Alb.png
+map_d mc_Tree_Enkei_Alb.png
+
+newmtl mc_Tree_Enkei_seiteki
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_Tree_Enkei_Alb.png
+map_d mc_Tree_Enkei_Alb.png
+
+newmtl mc_WoodShaft_Enkei
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_WoodShaft_Enkei_Alb.png
+map_d mc_WoodShaft_Enkei_Alb.png
+
+newmtl mc_dark_tatemono
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd umc_DarkWall_Alb.png
+map_d umc_DarkWall_Alb.png
+
+newmtl mc_door
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd door05_Alb.png
+map_d door05_Alb.png
+
+newmtl mc_door.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd door05_Alb.png
+map_d door05_Alb.png
+
+newmtl mc_hashi
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd umc_Hashi_Alb.png
+map_d umc_Hashi_Alb.png
+
+newmtl mc_kinopiohouse
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd kinopiohouse_Alb.png
+map_d kinopiohouse_Alb.png
+
+newmtl mc_kinopiohouse.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd kinopiohouse_Alb.png
+map_d kinopiohouse_Alb.png
+
+newmtl mc_kusa
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd kusa_01_Alb.png
+map_d kusa_01_Alb.png
+
+newmtl mc_kusa.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd kusa_01_Alb.png
+map_d kusa_01_Alb.png
+
+newmtl mc_metal_01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd umc_Metal_01_Alb.png
+map_d umc_Metal_01_Alb.png
+
+newmtl mc_nuki_01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd umc_Nuki_01_Alb.png
+map_d umc_Nuki_01_Alb.png
+
+newmtl mc_orangi
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd orang_01_Alb.png
+map_d orang_01_Alb.png
+
+newmtl mc_red_roof
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd umc_RedRoof_Alb.png
+map_d umc_RedRoof_Alb.png
+
+newmtl mc_red_roof_edge
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd umc_RedRoof_Edge_Alb.png
+map_d umc_RedRoof_Edge_Alb.png
+
+newmtl mc_renga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd mc_brick_Alb.png
+map_d mc_brick_Alb.png
+
+newmtl mc_sand
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd gcddd_road02_Alb.png
+map_d gcddd_road02_Alb.png
+
+newmtl mc_tetu
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd umc_Hashi_Iron_Alb.png
+map_d umc_Hashi_Iron_Alb.png
+
+newmtl mc_tou
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd peach_star_Alb.png
+map_d peach_star_Alb.png
+
+newmtl mc_wR_tatemono
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd White_Wall_05_Alb.png
+map_d White_Wall_05_Alb.png
+
+newmtl mc_w_tatemono
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd White_Wall_04_Alb.png
+map_d White_Wall_04_Alb.png
+
+newmtl mc_wood
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd kinopiohousedoor_Alb.png
+map_d kinopiohousedoor_Alb.png
+
+newmtl mc_yellow
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd yellow_01_Alb.png
+map_d yellow_01_Alb.png
+
+newmtl rengablock
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd rengablock_Alb.png
+map_d rengablock_Alb.png
+
+newmtl shirokabe
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd shirorenga_Alb.png
+map_d shirorenga_Alb.png
+
+newmtl sign_all
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd sign_all_Alb.png
+map_d sign_all_Alb.png
+
+newmtl whidou_naka
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd window_naka_Alb.png
+map_d window_naka_Alb.png
+
+newmtl yane
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd yane_Alb.png
+map_d yane_Alb.png
+
+newmtl yane_ue
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd yane_ue_Alb.png
+map_d yane_ue_Alb.png

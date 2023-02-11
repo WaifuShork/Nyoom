@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 37df52c834e5ae94db3b22fed9435b45
+timeCreated: 1477338150
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: dBody
+    100006: dFLArmBot
+    100008: dFLArmTop
+    100010: dFLGuard
+    100012: dFLHub
+    100014: dFLSusp
+    100016: dFLWheel
+    100018: dFRArmBot
+    100020: dFRArmTop
+    100022: dFRGuard
+    100024: dFRHub
+    100026: dFRSusp
+    100028: dFRWheel
+    100030: dRLArmBot
+    100032: dRLArmTop
+    100034: dRLHub
+    100036: dRLSusp
+    100038: dRLWheel
+    100040: dRRArmBot
+    100042: dRRArmTop
+    100044: dRRHub
+    100046: dRRSusp
+    100048: dRRWheel
+    100050: gBody
+    100052: Lamp
+    100054: LightFL1
+    100056: LightFR1
+    100058: sBody
+    400000: Camera
+    400002: //RootNode
+    400004: dBody
+    400006: dFLArmBot
+    400008: dFLArmTop
+    400010: dFLGuard
+    400012: dFLHub
+    400014: dFLSusp
+    400016: dFLWheel
+    400018: dFRArmBot
+    400020: dFRArmTop
+    400022: dFRGuard
+    400024: dFRHub
+    400026: dFRSusp
+    400028: dFRWheel
+    400030: dRLArmBot
+    400032: dRLArmTop
+    400034: dRLHub
+    400036: dRLSusp
+    400038: dRLWheel
+    400040: dRRArmBot
+    400042: dRRArmTop
+    400044: dRRHub
+    400046: dRRSusp
+    400048: dRRWheel
+    400050: gBody
+    400052: Lamp
+    400054: LightFL1
+    400056: LightFR1
+    400058: sBody
+    2300000: dBody
+    2300002: dFLArmBot
+    2300004: dFLArmTop
+    2300006: dFLGuard
+    2300008: dFLHub
+    2300010: dFLSusp
+    2300012: dFLWheel
+    2300014: dFRArmBot
+    2300016: dFRArmTop
+    2300018: dFRGuard
+    2300020: dFRHub
+    2300022: dFRSusp
+    2300024: dFRWheel
+    2300026: dRLArmBot
+    2300028: dRLArmTop
+    2300030: dRLHub
+    2300032: dRLSusp
+    2300034: dRLWheel
+    2300036: dRRArmBot
+    2300038: dRRArmTop
+    2300040: dRRHub
+    2300042: dRRSusp
+    2300044: dRRWheel
+    2300046: gBody
+    2300048: LightFL1
+    2300050: LightFR1
+    2300052: sBody
+    3300000: dBody
+    3300002: dFLArmBot
+    3300004: dFLArmTop
+    3300006: dFLGuard
+    3300008: dFLHub
+    3300010: dFLSusp
+    3300012: dFLWheel
+    3300014: dFRArmBot
+    3300016: dFRArmTop
+    3300018: dFRGuard
+    3300020: dFRHub
+    3300022: dFRSusp
+    3300024: dFRWheel
+    3300026: dRLArmBot
+    3300028: dRLArmTop
+    3300030: dRLHub
+    3300032: dRLSusp
+    3300034: dRLWheel
+    3300036: dRRArmBot
+    3300038: dRRArmTop
+    3300040: dRRHub
+    3300042: dRRSusp
+    3300044: dRRWheel
+    3300046: gBody
+    3300048: LightFL1
+    3300050: LightFR1
+    3300052: sBody
+    4300000: dFLHub
+    4300002: dRLHub
+    4300004: dBody
+    4300006: dFLArmBot
+    4300008: dFLGuard
+    4300010: dRRSusp
+    4300012: dRRHub
+    4300014: dFRWheel
+    4300016: LightFR1
+    4300018: dRLArmTop
+    4300020: dRRArmTop
+    4300022: gBody
+    4300024: LightFL1
+    4300026: dFRHub
+    4300028: dRLArmBot
+    4300030: dFRGuard
+    4300032: dFRSusp
+    4300034: dFLWheel
+    4300036: dRLWheel
+    4300038: dFRArmTop
+    4300040: dRRArmBot
+    4300042: sBody
+    4300044: dRRWheel
+    4300046: dFRArmBot
+    4300048: dRLSusp
+    4300050: dFLArmTop
+    4300052: dFLSusp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
